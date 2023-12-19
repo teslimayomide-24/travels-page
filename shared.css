@@ -43,6 +43,11 @@ header a:hover {
     background-color: rgb(255, 251, 0);
 }
 
+header #tvg:hover {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(250, 246, 24);
+}
+
 #page-logo a {
     padding: 10px;
     font-family: "Oleo Script", sans-serif;
